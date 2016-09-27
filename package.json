@@ -1,0 +1,20 @@
+{
+  "name": "phillips-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hansogj/phillips-webpack.git"
+  },
+  "keywords": [],
+  "author": "hog001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansogj/phillips-webpack/issues"
+  },
+  "homepage": "https://github.com/hansogj/phillips-webpack"
+}
